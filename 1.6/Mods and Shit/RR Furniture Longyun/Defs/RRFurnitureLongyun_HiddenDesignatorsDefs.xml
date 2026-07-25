@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <VEF.Buildings.HiddenDesignatorsDef>
+    <defName>FernyRRFurnitureLongyunProps_HiddenDesignators</defName>
+    <hiddenDesignators>
+      <li>RRBaoshanScreen</li>
+      <li>RRSuzhouDesk</li>
+      <li>RRAnqingDesk</li>
+      <li>RRHangzhouStand</li>
+      <li>RRNingboStand</li>
+      <li>RRXihuStand</li>
+      <li>RRJinanCupboard</li>
+      <li>RRLixiaCupboard</li>
+      <li>RRShanghaiSofaLong</li>
+    </hiddenDesignators>
+  </VEF.Buildings.HiddenDesignatorsDef>
+</Defs>

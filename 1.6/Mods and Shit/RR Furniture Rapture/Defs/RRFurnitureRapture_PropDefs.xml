@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- Molnia 650 -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrdesktoptwo</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>RRDesktopTwo</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Rosehill Supercharger -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrdesktopthree</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>RRDesktopThree</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Simion Transplanet 500 radio -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrgojaradio</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>RRGojaRadio</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Bedemark Symphonic 625 -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrbigstereoconsole</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>RRBigStereoConsole</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Simion Model 1121 -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrstereoconsole</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>RRStereoConsole</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Venesov TV stand -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrtvstand</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRTVStand</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Kladnov TV stand -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrtvstandtwo</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRTVStandTwo</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Kliwice TV stand -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrtvstandthree</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRTVStandThree</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Manchester curtains -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rr2x1curtains</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RR2x1Curtains</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Birmingham curtains -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rr2x1curtainsone</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RR2x1CurtainsOne</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Marsile Couch -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrmarsilesofa</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRMarsileSofa</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Tulen Couch -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrtulensofa</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRTulenSofa</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Maharid Cupboard -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrcupboard</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRCupboard</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Sevia Cupboard -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrcupboardtwo</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRCupboardTwo</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Haen Bookshelf -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrbookshelfone</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRBookshelfOne</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Teruel Cupboard -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrcupboardthree</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRCupboardThree</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Hannover Refrigerator -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrrefrigerator</defName>
+    <category>VFE_PropCategory_Kitchen</category>
+    <priority>99999</priority>
+    <prop>RRRefrigerator</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- CONIA 5000 -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_rapture_prop_rrdesktop</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>RRDesktop</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+</Defs>

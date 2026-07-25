@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- Baoshan Screen -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrbaoshanscreen</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRBaoshanScreen</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Suzhou Desk -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrsuzhoudesk</defName>
+    <category>VFE_PropCategory_Office</category>
+    <priority>99999</priority>
+    <prop>RRSuzhouDesk</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Anqing Desk -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rranqingdesk</defName>
+    <category>VFE_PropCategory_Office</category>
+    <priority>99999</priority>
+    <prop>RRAnqingDesk</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Hangzhou TV stand -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrhangzhoustand</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRHangzhouStand</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Ningbo TV stand -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrningbostand</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRNingboStand</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Xihu TV stand -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrxihustand</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRXihuStand</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Jinan Bookshelf -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrjinancupboard</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRJinanCupboard</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Lixia Bookshelf -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrlixiacupboard</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRLixiaCupboard</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <!-- Shanghai Couch -->
+  <VFEProps.PropDef>
+    <defName>ferny_rr_longyun_prop_rrshanghaisofalong</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>RRShanghaiSofaLong</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+</Defs>

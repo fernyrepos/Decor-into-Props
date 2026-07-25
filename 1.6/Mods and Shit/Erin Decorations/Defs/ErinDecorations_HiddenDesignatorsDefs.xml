@@ -34,6 +34,8 @@
 			<li>ED_SmallPhotos</li>
 			<li>ED_SmallPlant</li>
         <li>ED_DogHouse</li>
-</hiddenDesignators>							
+			<li>ED_Bin</li>
+					<li>ED_Plushie</li>
+		</hiddenDesignators>							
 	</VEF.Buildings.HiddenDesignatorsDef>
 </Defs>

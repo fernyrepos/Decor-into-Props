@@ -22,6 +22,8 @@
     <li IfModActive="oracle.miscellania">1.6/Mods and Shit/Oracle's Miscellania</li>
     <li IfModActive="kongkim.panelsframes">1.6/Mods and Shit/Panels and Frames</li>
     <li IfModActive="ponpeco.pfkidsroom">1.6/Mods and Shit/Ponpeco Kids Room</li>
+    <li IfModActive="Resurrectionem.FurnitureAsia">1.6/Mods and Shit/RR Furniture Longyun</li>
+    <li IfModActive="Resurrectionem.Furniture">1.6/Mods and Shit/RR Furniture Rapture</li>
     <li IfModActive="ReGrowth.BOTR.Core">1.6/Mods and Shit/Regrowth Core</li>
     <!-- <li IfModActive="sierra.rf.housedoyle">1.6/Mods and Shit/Rimfantasy Doyle</li>
     <li IfModActive="finch.blood">1.6/Mods and Shit/Rimfantasy Sanguine</li>
