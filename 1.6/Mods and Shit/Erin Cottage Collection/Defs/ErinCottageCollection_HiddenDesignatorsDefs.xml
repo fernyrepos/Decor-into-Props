@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<VEF.Buildings.HiddenDesignatorsDef>
+		<defName>FernyErinCottageProgAesthetics_HiddenDesignators</defName>
+		<hiddenDesignators>			
+			<li>CCot_CottageEndTable</li>
+			<li>CCot_CottageTable1x2a</li>
+			<li>CCot_CottageTable2x2a</li>
+			<li>CCol_Grinder</li>
+			<li>CCol_TeaSet</li>
+			<li>CCol_PottedPlantA</li>
+			<li>CCol_PottedPlantB</li>
+			<li>CCol_PottedPlantC</li>
+			<li>CCol_PottedPlantD</li>
+        <li>CCot_SmallBookshelf</li>
+</hiddenDesignators>							
+	</VEF.Buildings.HiddenDesignatorsDef>
+</Defs>

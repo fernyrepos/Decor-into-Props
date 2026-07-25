@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!-- Bust Sculpture -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_bust_sculpture</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_Bust_Sculpture</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Icon of Prayers -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_icon_of_prayers</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_WhiteV2024_03_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Library Reading Stand -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_library_reading_stand</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_Tsg2017_03_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sunflower Vase -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_sunflower_vase</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_Qj2016_vase</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Decorative Bouquet -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_decorative_bouquet</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>PNC_Decorative_Bouquet</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Fragments of Thought -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_fragments_of_thought</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>PNC_Fragments_of_Thought</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Butterfly Specimen -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_butterfly_specimen</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_Anniversary2020_butterfly</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Blue Night Cluster -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_blue_night_cluster</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_2022HK416_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Aegis Shield -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_aegis_shield</defName>
+  <category>VFE_PropCategory_Mechs</category>
+  <priority>99999</priority>
+  <prop>PNC_Aegis_Shield</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Orrery -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_orrery</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>PNC_Orrery</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Polux Tree Pot -->
+<VFEProps.PropDef>
+  <defName>ferny_polux_tree_pot</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_BonsaiTreePot_PoluxTree</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Anima Tree Pot -->
+<VFEProps.PropDef>
+  <defName>ferny_anima_tree_pot</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>BonsaiTreePot_TreeAnima</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Archean Tree Pot -->
+<VFEProps.PropDef>
+  <defName>ferny_archean_tree_pot</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_BonsaiTreePot_ArcheanTree</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Harbinger Tree Pot -->
+<VFEProps.PropDef>
+  <defName>ferny_harbinger_tree_pot</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_BonsaiTreePot_HarbingerTree</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Gauranlen Tree Pot -->
+<VFEProps.PropDef>
+  <defName>ferny_gauranlen_tree_pot</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_BonsaiTreePot_GauranlenTree</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sports Equipment -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_sportsequipment</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_SportsEquipment</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Game Console -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_gameconsole</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_GameConsole</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Gamepad -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_gamepad</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Gamepad</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Laptop -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_laptop_bsod</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Laptop_BSoD</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Pen Holder -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_penholder</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Prop_PenHolder</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Notes of Destiny -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_notes_of_destiny</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>GFL_2022WhiteVActivity_K5_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Lantern -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_suomi_lantern</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL2_Suomi_Lantern</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Camera -->
+<VFEProps.PropDef>
+  <defName>ferny_rccb_camera</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>RCCB_Camera</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Temperature Display -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_temperature_display</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL2_Temperature_Display</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Clock (Electronic) -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_clock_electronic</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>Prop_Clock_Electronic</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Clock -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_alarm_clock</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>Prop_Alarm_Clock</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Piggy Bank -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_piggy_bank</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Piggy_Bank</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Boxing Glove -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_boxing_glove</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Boxing_Glove</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Black Card -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_black_card</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>GFL_Black_Card</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Cushion -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_cushion</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_Cushion</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Note Book -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_notebook</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_NoteBook</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Slippers -->
+<VFEProps.PropDef>
+  <defName>ferny_props_slippers</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>Props_Slippers</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+
+<!-- 404 Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_404_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_404_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- 404 Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_404_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_404_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- DEFY Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_defy_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_DEFY_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- DEFY Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_defy_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_DEFY_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- GK Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl_gk_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL_GK_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- GK Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl_gk_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL_GK_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- I.O.P. Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_iop_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_IOP_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- I.O.P. Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_iop_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_IOP_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- KCCO Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl_kcco_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL_KCCO_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- KCCO Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl_kcco_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL_KCCO_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sangvis Ferri Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl_sangvis_ferri_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL_Sangvis_Ferri_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sangvis Ferri Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl_sangvis_ferri_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL_Sangvis_Ferri_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Paradeus Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_paradeus_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_Paradeus_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Paradeus Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_paradeus_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_Paradeus_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- 42LAB Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_42lab_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_42LAB_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- 42LAB Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_42lab_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_42LAB_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Cyber Media Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_cyber_media_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Cyber_Media_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Cyber Media Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_cyber_media_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Cyber_Media_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Entropy Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_entropy_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Entropy_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Entropy Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_entropy_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Entropy_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sanctifier Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_sanctifier_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Sanctifier_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sanctifier Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_sanctifier_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Sanctifier_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Svarog Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_svarog_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Svarog_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Svarog Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_svarog_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Svarog_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- UAS Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_uas_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_UAS_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- UAS Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_uas_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_UAS_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ultilife Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_ultilife_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Ultilife_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ultilife Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_pnc_ultilife_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_PNC_Ultilife_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- B.R.I.E.F. Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl2_brief_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL2_BRIEF_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- B.R.I.E.F. Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl2_brief_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL2_BRIEF_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Varjagers Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl2_varjagers_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL2_Varjagers_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Varjagers Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_gfl2_varjagers_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_GFL2_Varjagers_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- AU Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_au_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_AU_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- AU Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_au_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_AU_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- GRF Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_grf_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_GRF_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- GRF Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_grf_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_GRF_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- MID Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_mid_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_MID_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- MID Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_mid_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_MID_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- TASA Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_tasa_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_TASA_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- TASA Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_tasa_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_TASA_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- URNC Logo (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_urnc_2x</defName>
+  <category>VFE_PropCategory_Decals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_URNC_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- URNC Logo (3x3) -->
+<VFEProps.PropDef>
+  <defName>ferny_logo_rc_urnc_3x</defName>
+  <category>VFE_PropCategory_LargeDecals</category>
+  <priority>99999</priority>
+  <prop>Logo_RC_URNC_3x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Afternoon Tea (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_afternoon_tea</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PNC_Afternoon_Tea</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sweet Feast (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_sweet_feast</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PNC_Sweet_Feast</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Various Holiday Foods (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_various_holiday_foods</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PNC_Various_Holiday_Foods</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Winter Feast (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_winter_feast</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PNC_Winter_Feast</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Pumpkin Candy Stash -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_pumpkin_candy_box</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Pumpkin_Candy_Box</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Fast Food A -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_fast_food_a</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Fast_Food_A</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Fast Food B -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_fast_food_b</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Fast_Food_B</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Fast Food C -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_fast_food_c</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Fast_Food_C</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Basque Cheesecake -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_basque_cheesecake</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Basque_Cheesecake</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Black Forest Cake -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_black_forest_cake</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Black_Forest_Cake</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Opera Cake -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_opera_cake</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Opera_Cake</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Roll Cake -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_roll_cake</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Roll_Cake</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Strawberry Custard Cheesecake -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_strawberry_custard_cheesecake</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Strawberry_Custard_Cheesecake</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Tiramisu -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_tiramisu</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Tiramisu</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Macaron -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_macaron</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Macaron</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Champagne -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_champagne</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_2022Ots14_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Honey -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_honey</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Honey</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Laundry Cart A -->
+<VFEProps.PropDef>
+  <defName>ferny_props_laundry_cart_a</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Props_Laundry_Cart_A</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Laundry Cart B -->
+<VFEProps.PropDef>
+  <defName>ferny_props_laundry_cart_b</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Props_Laundry_Cart_B</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Surgical Instruments -->
+<VFEProps.PropDef>
+  <defName>ferny_props_surgical_instruments</defName>
+  <category>VFE_PropCategory_Hospital</category>
+  <priority>99999</priority>
+  <prop>Props_Surgical_Instruments</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Mortar and Pestle -->
+<VFEProps.PropDef>
+  <defName>ferny_props_mortarpestle</defName>
+  <category>VFE_PropCategory_Hospital</category>
+  <priority>99999</priority>
+  <prop>Props_MortarPestle</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Folded Laundry -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_foldedlaundry</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>Prop_FoldedLaundry</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Pump Bottle -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_pumpbottle</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_PumpBottle</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Shampoo Rack -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_shampoorack</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_ShampooRack</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Soap Rack -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_soaprack</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_SoapRack</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Towel Rack -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_towelrack</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_TowelRack</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Medical Bandages -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_medical_bandages</defName>
+  <category>VFE_PropCategory_Hospital</category>
+  <priority>99999</priority>
+  <prop>PNC_Medical_Bandages</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Reed Diffuser -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_reeddiffuser</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_ReedDiffuser</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Pills A -->
+<VFEProps.PropDef>
+  <defName>ferny_props_pills_a</defName>
+  <category>VFE_PropCategory_Hospital</category>
+  <priority>99999</priority>
+  <prop>Props_Pills_A</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Pills B -->
+<VFEProps.PropDef>
+  <defName>ferny_props_pills_b</defName>
+  <category>VFE_PropCategory_Hospital</category>
+  <priority>99999</priority>
+  <prop>Props_Pills_B</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Pills C -->
+<VFEProps.PropDef>
+  <defName>ferny_props_pills_c</defName>
+  <category>VFE_PropCategory_Hospital</category>
+  <priority>99999</priority>
+  <prop>Props_Pills_C</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sleeping Pills -->
+<VFEProps.PropDef>
+  <defName>ferny_props_pillssleeping</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>Props_PillsSleeping</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Accordion -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_accordion</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Accordion</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Guzheng -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_guzheng</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Guzheng</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Oboe -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_oboe</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Oboe</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Snare Drum -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_snare_drum</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Snare_Drum</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Trombone -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_trombone</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Trombone</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Trumpet -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_trumpet</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Trumpet</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Violin -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_violin</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Violin</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Cello -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_cello</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Cello</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Guitar -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_guitar</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Guitar</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Barbecue -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_swimpool2018_08_deco</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>GFL_Swimpool2018_08_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Basket of Berries -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_qj2016_deco</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Qj2016_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Iced Drinks and Snacks -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_sz2017_03_deco</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Sz2017_03_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Simple Tea Set -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_simpleteaset</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL2_SimpleTeaSet</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- White Coffee Cup -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_white_coffee_cup</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_White_Coffee_Cup</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Coffee Mill -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_coffee_mill</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Coffee_Mill</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Kettle -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_kettle</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>Prop_Kettle</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Kitchen Utensils -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_kitchenutensils</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>Prop_KitchenUtensils</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Knife Block -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_knifeblock</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>Prop_KnifeBlock</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Microwave -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_microwave</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>Prop_Microwave</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Moka Pot -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_moka_pot</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>Prop_Moka_Pot</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Spice Rack -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_spicerack</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>Prop_SpiceRack</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Tissues Box -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_tissuesbox</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_TissuesBox</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Toaster -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_toaster</defName>
+  <category>VFE_PropCategory_Kitchen</category>
+  <priority>99999</priority>
+  <prop>Prop_Toaster</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Place Setting -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_place_setting</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>Prop_Place_Setting</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- 45 Table Mat -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_45_table_mat</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_45_Table_Mat</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- 45 Table Mat (2x2) -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_45_table_mat_2x</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_45_Table_Mat_2x</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Mail Box -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_mailbox</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_MailBox</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Public Mail Box -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_mailboxpublic</defName>
+  <category>Ferny_Urban</category>
+  <priority>99999</priority>
+  <prop>Prop_MailBoxPublic</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Umbrella Stand -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_umbrellastand</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_UmbrellaStand</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Snowman -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_snowman</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Snowman</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sandcastle -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_sz2017_02_deco</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Sz2017_02_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Road Cone A -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_road_cone_a</defName>
+  <category>Ferny_Urban</category>
+  <priority>99999</priority>
+  <prop>Prop_Road_Cone_A</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Road Cone B -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_road_cone_b</defName>
+  <category>Ferny_Urban</category>
+  <priority>99999</priority>
+  <prop>Prop_Road_Cone_B</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Umbrella -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_umbrella</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Umbrella</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ammo -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_ammo</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Ammo</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Blue Butterfly (L) -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_blue_butterflyl</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_Blue_ButterflyL</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Blue Butterfly (R) -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_blue_butterflyr</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>GFL_Blue_ButterflyR</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ration -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_ration</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>GFL_Ration</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Damaged Dog Tags -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_damaged_dog_tags</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL2_Damaged_Dog_Tags</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Mysterious Necklace -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_mysterious_necklace</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL2_Mysterious_Necklace</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Hairclip -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_clukay_hairclip</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>PNC_Clukay_Hairclip</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Fated Encounter -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_fated_encounter</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>PNC_Fated_Encounter</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Small Notepad -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_small_notepad</defName>
+  <category>VFE_PropCategory_Workshop</category>
+  <priority>99999</priority>
+  <prop>PNC_Small_Notepad</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Men's Shoe Rack -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_shoerackmen</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_ShoeRackMen</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Women's Shoe Rack -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_shoerackwomen</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_ShoeRackWomen</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Uniform of Fantasy -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_summeractivity2020_suit</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_SummerActivity2020_suit</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- White Mask -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_white_mask</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_White_Mask</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Skull Cap -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_skull_cap</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>PNC_Skull_Cap</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Toothbrush Set -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_toothbrushset</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_ToothbrushSet</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Exquisite Wigs -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_exquisite_wigs</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>GFL_Exquisite_wigs</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Gas Mask -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_gas_mask</defName>
+  <category>VFE_PropCategory_Industrial</category>
+  <priority>99999</priority>
+  <prop>GFL_Gas_Mask</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Oath Ring -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_oath_ring</defName>
+  <category>VFE_PropCategory_Temple</category>
+  <priority>99999</priority>
+  <prop>GFL_Oath_Ring</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Hair Dryer -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_hair_dryer</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_Hair_Dryer</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Hair Iron -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_hair_iron</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_Hair_Iron</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Army Lapel Pins -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_army_lapel_pins</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Army_Lapel_Pins</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Yellow Armband -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_yellow_armband</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Yellow_Armband</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Red Gloves -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_red_gloves</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>GFL_Red_Gloves</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Heavy Coat -->
+<VFEProps.PropDef>
+  <defName>ferny_rccb_heavy_coat</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>99999</priority>
+  <prop>RCCB_Heavy_Coat</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Orange Cat Doll -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_orange_cat_doll</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_Orange_Cat_Doll</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Mr. Pizza -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_mr_pizza</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL2_Mr_Pizza</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Doggo No.1 -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_doggo_no1</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>PNC_Doggo_NoOne</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Decoration -->
+<VFEProps.PropDef>
+  <defName>ferny_rccb_decoration</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>RCCB_Decoration</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sandbox Miniature -->
+<VFEProps.PropDef>
+  <defName>ferny_rccb_sandbox_miniature</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>RCCB_Sandbox_Miniature</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Cerberus Figure -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_cerberus</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_Cerberus</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- SPzh3000 Architect Figure -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_spzh3000architect</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_SPzh3000Architect</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Team Gacha Egg -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_team_gacha_egg</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_Team_Gacha_Egg</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Jupiter Cannon Figure -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_jupiter_cannon</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_Jupiter_Cannon</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- M4 SOPMOD II Jr. -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_m4_sopmod_ii_jr</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_M4_SOPMOD_II_Jr</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Brown Rabbit Plushie -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_qj2016_floordeco</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_Qj2016_floordeco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Stuffed Doll -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_stuffeddoll</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL_Stuffeddoll</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ceramic Doll -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_ceramic_doll</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL2_Ceramic_Doll</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Dinergate Figure A -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_dinergate_a</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL2_Dinergate_A</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Dinergate Figure B -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_dinergate_b</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL2_Dinergate_B</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Mr. P*zza -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_mr_p_zza</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL2_Mr_P_zza</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Zucchero's Protection -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_zuccheros_protection</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>GFL2_Zuccheros_Protection</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Bonded Dolls -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_bonded_dolls</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>PNC_Bonded_Dolls</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Teddy Rag-Doll -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_teddy_rag_doll</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>PNC_Teddy_Rag-Doll</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- White Bunny -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_white_rabbit</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>Prop_White_Rabbit</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Shiny Coin -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_shiny_coin</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Shiny_Coin</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Collapse Piece -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_collapse_piece</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL2_Collapse_Piece</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Sardis Gold -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_sardis_gold</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL2_Sardis_Gold</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Quartz Sand -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_quartz_sand</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>PNC_Quartz_Sand</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ammobox A -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_ammobox</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Ammobox</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ammobox B -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_ammoboxb</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_AmmoboxB</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Miscellaneous Toolkits -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_agent2020_13_deco</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Agent2020_13_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Emergency Supplies -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_agent2020_14_deco</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Agent2020_14_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Weapon Supply Crates -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_agent2020_15_deco</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Agent2020_15_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Drone Terminal -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_zhs2016_deco</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Zhs2016_deco</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Ham Radio -->
+<VFEProps.PropDef>
+  <defName>ferny_props_ham_radio</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Props_Ham_Radio</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Printer -->
+<VFEProps.PropDef>
+  <defName>ferny_props_printer</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Props_Printer</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Component -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_parts</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Parts</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Collapse Fluid -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_collapse_fluid</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Collapse_Fluid</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Epiphyllum Container -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl_epiphyllum_container</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL_Epiphyllum_Container</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Collapse Crystal -->
+<VFEProps.PropDef>
+  <defName>ferny_gfl2_collapse_crystal</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>GFL2_Collapse_Crystal</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Quartz -->
+<VFEProps.PropDef>
+  <defName>ferny_pnc_quartz</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>PNC_Quartz</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Radio -->
+<VFEProps.PropDef>
+  <defName>ferny_props_radio</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>Props_Radio</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Svarog Tank Figure -->
+<VFEProps.PropDef>
+  <defName>ferny_rccb_svarog_tank</defName>
+  <category>VFE_PropCategory_Misc</category>
+  <priority>99999</priority>
+  <prop>RCCB_Svarog_Tank</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+
+<!-- Comb -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_comb</defName>
+  <category>Ferny_Bathroom</category>
+  <priority>99999</priority>
+  <prop>Prop_Comb</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Baby Bottle -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_babybottle</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>Prop_BabyBottle</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Hourglass -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_hourglass</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>Prop_Hourglass</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Metronome -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_metronome</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_Metronome</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Wax Seal Set -->
+<VFEProps.PropDef>
+  <defName>ferny_props_waxsealset</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Props_WaxSealSet</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Inkwell and Quill -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_inkwellquill</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Prop_InkwellQuill</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Equilibrium Scales -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_equilibriumscales</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Prop_EquilibriumScales</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Drafting Compass -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_draftingcompass</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Prop_DraftingCompass</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Parchment Rolls -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_parchmentrolls</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Prop_ParchmentRolls</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Rulers -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_rulers</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>99999</priority>
+  <prop>Prop_Rulers</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Rubik's Cube -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_rubikscube</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>99999</priority>
+  <prop>Prop_RubiksCube</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Censer -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_censer</defName>
+  <category>VFE_PropCategory_Temple</category>
+  <priority>99999</priority>
+  <prop>Prop_Censer</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Folding Ladder -->
+<VFEProps.PropDef>
+  <defName>ferny_prop_foldingladder</defName>
+  <category>VFE_PropCategory_Workshop</category>
+  <priority>99999</priority>
+  <prop>Prop_FoldingLadder</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+</Defs>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture1</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_RingTossB</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture2</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_RingTossC</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture3</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_RingTossD</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture4</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_AnimalLamp</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture5</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_AnimalLampC</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture6</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_AnimalLampD</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture7</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>1</priority>
+  <prop>PFK_Ball</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture8</defName>
+  <category>VFE_PropCategory_Bedroom</category>
+  <priority>1</priority>
+  <prop>PFK_Cushion</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture9</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToySC</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture10</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToySB</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture11</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToySD</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture12</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToyS</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture13</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_PKCDog</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture14</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_PKCRobo</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture15</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToyD</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture16</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToyB</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture17</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToyC</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture18</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_WoodenToy</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture19</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_GiantPlushieB</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture20</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_GiantPlushieM</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpecofurniture21</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>1</priority>
+  <prop>PFK_GiantPlushie</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+
+
+</Defs>

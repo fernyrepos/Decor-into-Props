@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Decor into Props</name>
+	<author>ferny</author>
+	<packageId>ferny.decorintoprops</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VFEPropsandDecor</packageId>
+			<displayName>Vanilla Furniture Expanded - Props and Decor</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2102143149</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ferny.propscore</packageId>
+			<displayName>More Prop Categories</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3167021055</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Turns decorative building defs from supported mods into VFE props.</description>
+	<loadAfter>
+		<li>3hstltd.signs</li>
+		<li>ReGrowth.BOTR.Core</li>
+		<li>VanillaExpanded.VFECore</li>
+		<li>VanillaExpanded.VFEPropsandDecor</li>
+		<li>addie.housevanilla</li>
+		<li>anthitei.athsstyleableframework.style</li>
+		<li>biomesteam.biomesfossils</li>
+		<li>dankpyon.medieval.overhaul</li>
+		<li>dark.signs</li>
+		<li>Mumei.Signs</li>
+		<li>dsp.lun</li>
+		<li>eeg.architecture</li>
+		<li>erin.cottagecollection</li>
+		<li>erin.decorations</li>
+		<li>ferny.propscore</li>
+		<li>finch.blood</li>
+		<li>icepickgma.invisibledisplaycase</li>
+		<li>kongkim.panelsframes</li>
+		<li>leo.propsdecor</li>
+		<li>lunartika.os</li>
+		<li>mewn.extra.signs</li>
+		<li>mingtuwuxiang.fishingdecorative</li>
+		<li>mingtuwuxiang.gothicdecorative</li>
+		<li>mingtuwuxiang.spacebasedecorative</li>
+		<li>mlie.amnabisflags</li>
+		<li>mo.decorationsluxury</li>
+		<li>mos.victoriandecorations</li>
+		<li>oracle.miscellania</li>
+		<li>ponpeco.pfkidsroom</li>
+		<li>rw.mod.simplestairs</li>
+		<li>shp.rus</li>
+		<li>sierra.rf.housedoyle</li>
+		<li>vanillaexpanded.vfearchitect</li>
+		<li>whaley.whaleysprops</li>
+	</loadAfter>
+</ModMetaData>

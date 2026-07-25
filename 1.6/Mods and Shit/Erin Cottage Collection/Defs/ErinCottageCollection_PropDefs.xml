@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!-- <VFEProps.PropDef>
+  <defName>ferny_victorian1</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>1</priority>
+  <prop>VD_Sandglass</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian2</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>1</priority>
+  <prop>VD_Phonograph</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian3</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>1</priority>
+  <prop>VD_PendulumClock</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian4</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>1</priority>
+  <prop>VD_HangingOilPainting</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian5</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>1</priority>
+  <prop>VD_OilPainting</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian6</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>1</priority>
+  <prop>VD_BookPile</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian7</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>1</priority>
+  <prop>VD_CigarBox</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian8</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>1</priority>
+  <prop>VD_CigarTray</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian9</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>1</priority>
+  <prop>VD_DialTelephone</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian10</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>1</priority>
+  <prop>VD_DocumentBox</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian11</defName>
+  <category>Ferny_Dining</category>
+  <priority>1</priority>
+  <prop>VD_FoodTrolley</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian12</defName>
+  <category>Ferny_Dining</category>
+  <priority>1</priority>
+  <prop>VD_GlassCup</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian13</defName>
+  <category>Ferny_Dining</category>
+  <priority>1</priority>
+  <prop>VD_IronWinePot</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian14</defName>
+  <category>Ferny_Dining</category>
+  <priority>1</priority>
+  <prop>VD_JohnnieWalker</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian15</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>1</priority>
+  <prop>VD_Map</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian16</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>1</priority>
+  <prop>VD_SuitCase</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian17</defName>
+  <category>Ferny_Dining</category>
+  <priority>1</priority>
+  <prop>VD_TeacupPlate</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian18</defName>
+  <category>VFE_PropCategory_Recreation</category>
+  <priority>1</priority>
+  <prop>VD_TobaccoPipe</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+<VFEProps.PropDef>
+  <defName>ferny_victorian19</defName>
+  <category>VFE_PropCategory_Office</category>
+  <priority>1</priority>
+  <prop>VD_TypeWriter</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef> -->
+
+
+<!-- Grinder -->
+<VFEProps.PropDef>
+  <defName>ferny_ccol_grinder</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>CCol_Grinder</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Tea set -->
+<VFEProps.PropDef>
+  <defName>ferny_ccol_teaset</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>CCol_TeaSet</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+
+<!-- Potted plant a -->
+<VFEProps.PropDef>
+  <defName>ferny_ccol_pottedplanta</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>CCol_PottedPlantA</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Potted plant b -->
+<VFEProps.PropDef>
+  <defName>ferny_ccol_pottedplantb</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>CCol_PottedPlantB</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Potted plant c -->
+<VFEProps.PropDef>
+  <defName>ferny_ccol_pottedplantc</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>CCol_PottedPlantC</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<!-- Potted plant d -->
+<VFEProps.PropDef>
+  <defName>ferny_ccol_pottedplantd</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>CCol_PottedPlantD</prop>
+  <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+  <!-- Cottage small bookshelf -->
+  <VFEProps.PropDef>
+    <defName>ferny_ccot_smallbookshelf</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>CCot_SmallBookshelf</prop>
+    <useMatsInsteadOfSilver>false</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+</Defs>

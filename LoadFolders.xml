@@ -1,0 +1,37 @@
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li>1.6</li>
+    <li IfModActive="anthitei.athsstyleableframework.style">1.6/Mods and Shit/ATH Style Framework</li>
+    <li IfModActive="mlie.amnabisflags">1.6/Mods and Shit/Amnabi's Flags</li>
+    <li IfModActive="eeg.architecture">1.6/Mods and Shit/Architecture of the Rim</li>
+    <li IfModActive="mo.decorationsluxury">1.6/Mods and Shit/Banquet Decorations</li>
+    <li IfModActive="3hstltd.signs">1.6/Mods and Shit/Bill Signs</li>
+    <li IfModActive="biomesteam.biomesfossils">1.6/Mods and Shit/Biomes Fossils</li>
+    <li IfModActive="dsp.lun">1.6/Mods and Shit/Diner Supplies</li>
+    <li IfModActive="erin.cottagecollection">1.6/Mods and Shit/Erin Cottage Collection</li>
+    <li IfModActive="erin.decorations">1.6/Mods and Shit/Erin Decorations</li>
+    <li IfModActive="icepickgma.invisibledisplaycase">1.6/Mods and Shit/Invisible Display Case</li>
+    <li IfModActive="mewn.extra.signs">1.6/Mods and Shit/MO Extra Signs</li>
+    <li IfModActive="mingtuwuxiang.fishingdecorative">1.6/Mods and Shit/MUS Fishing</li>
+    <li IfModActive="mingtuwuxiang.gothicdecorative">1.6/Mods and Shit/MUS Gothic</li>
+    <li IfModActive="mingtuwuxiang.spacebasedecorative">1.6/Mods and Shit/MUS SpaceBase</li>
+    <li IfModActive="dankpyon.medieval.overhaul">1.6/Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="leo.propsdecor">1.6/Mods and Shit/Miniature Props and Decor</li>
+    <li IfModActive="lunartika.os">1.6/Mods and Shit/Office Supplies</li>
+    <li IfModActive="oracle.miscellania">1.6/Mods and Shit/Oracle's Miscellania</li>
+    <li IfModActive="kongkim.panelsframes">1.6/Mods and Shit/Panels and Frames</li>
+    <li IfModActive="ponpeco.pfkidsroom">1.6/Mods and Shit/Ponpeco Kids Room</li>
+    <li IfModActive="ReGrowth.BOTR.Core">1.6/Mods and Shit/Regrowth Core</li>
+    <!-- <li IfModActive="sierra.rf.housedoyle">1.6/Mods and Shit/Rimfantasy Doyle</li>
+    <li IfModActive="finch.blood">1.6/Mods and Shit/Rimfantasy Sanguine</li>
+    <li IfModActive="addie.housevanilla">1.6/Mods and Shit/Rimfantasy Vanilla</li> -->
+    <li IfModActive="dark.signs">1.6/Mods and Shit/Signs and Comments</li>
+    <li IfModActive="Mumei.Signs">1.6/Mods and Shit/Signs and Comments</li>
+    <li IfModActive="rw.mod.simplestairs">1.6/Mods and Shit/Simple Stairs</li>
+    <li IfModActive="shp.rus">1.6/Mods and Shit/Stationhouse Supplies</li>
+    <li IfModActive="vanillaexpanded.vfearchitect">1.6/Mods and Shit/VFE Architect</li>
+    <li IfModActive="mos.victoriandecorations">1.6/Mods and Shit/Victorian Decorations</li>
+    <li IfModActive="whaley.whaleysprops">1.6/Mods and Shit/Whaleys Props</li>
+  </v1.6>
+</loadFolders>
