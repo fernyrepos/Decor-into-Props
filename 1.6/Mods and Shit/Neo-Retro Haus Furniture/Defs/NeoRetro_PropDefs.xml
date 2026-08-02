@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_sandmon_carpet_a</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>NRH_SANDMON_CarpetA</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_sandmon_carpet_b</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>NRH_SANDMON_CarpetB</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_sandmon_carpet_c</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>NRH_SANDMON_CarpetC</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_sandmon_carpet_d</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>NRH_SANDMON_CarpetD</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_pile_of_record</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>NRH_PileOfRecord</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_record_player</defName>
+    <category>VFE_PropCategory_Recreation</category>
+    <priority>99999</priority>
+    <prop>NRH_TTRecordPlayer</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_hans_tv_bench</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>NRH_HANS_TVBench</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_ne_desk_lamp</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>NRH_NE_DeskLamp</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+  <VFEProps.PropDef>
+    <defName>ferny_neoretro_prop_ne_hanging_lamp</defName>
+    <category>VFE_PropCategory_Furniture</category>
+    <priority>99999</priority>
+    <prop>NRH_NE_HangingLamp</prop>
+    <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+  </VFEProps.PropDef>
+
+</Defs>

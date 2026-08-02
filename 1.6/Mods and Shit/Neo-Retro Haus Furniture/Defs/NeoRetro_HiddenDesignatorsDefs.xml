@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <VEF.Buildings.HiddenDesignatorsDef>
+    <defName>FernyNeoRetroProps_HiddenDesignators</defName>
+    <hiddenDesignators>
+      <li>NRH_SANDMON_CarpetA</li>
+      <li>NRH_SANDMON_CarpetB</li>
+      <li>NRH_SANDMON_CarpetC</li>
+      <li>NRH_SANDMON_CarpetD</li>
+      <li>NRH_PileOfRecord</li>
+      <li>NRH_TTRecordPlayer</li>
+      <li>NRH_HANS_TVBench</li>
+      <li>NRH_NE_DeskLamp</li>
+      <li>NRH_NE_HangingLamp</li>
+    </hiddenDesignators>
+  </VEF.Buildings.HiddenDesignatorsDef>
+</Defs>

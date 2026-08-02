@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_pitcher</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PFS_DecoTablewareA</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_fruitbowl</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PFS_DecoTablewareB</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_teacup</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PFS_DecoTablewareC</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_blueglass</defName>
+  <category>Ferny_Dining</category>
+  <priority>99999</priority>
+  <prop>PFS_DecoTablewareD</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_tabletopplant</defName>
+  <category>VFE_PropCategory_Plants</category>
+  <priority>99999</priority>
+  <prop>PFS_TabletopPlant</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_metalteddybear</defName>
+  <category>VFE_PropCategory_Children</category>
+  <priority>99999</priority>
+  <prop>PFS_MetalTeddyBear</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_obsidianfigurine</defName>
+  <category>VFE_PropCategory_Spacer</category>
+  <priority>99999</priority>
+  <prop>PFS_ObsidianFigurine</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_hologlasspanel</defName>
+  <category>VFE_PropCategory_Spacer</category>
+  <priority>99999</priority>
+  <prop>PFS_HoloGlassPanel</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_minihologlass</defName>
+  <category>VFE_PropCategory_Spacer</category>
+  <priority>99999</priority>
+  <prop>PFS_MiniHoloGlass</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_hologlassdesktop</defName>
+  <category>VFE_PropCategory_Spacer</category>
+  <priority>99999</priority>
+  <prop>PFS_HoloGlassDesktop</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_table3x2</defName>
+  <category>VFE_PropCategory_Furniture</category>
+  <priority>99999</priority>
+  <prop>PFS_Table3x2a</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+</Defs>

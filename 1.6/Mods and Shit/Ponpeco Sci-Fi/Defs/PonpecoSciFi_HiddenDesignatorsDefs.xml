@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<VEF.Buildings.HiddenDesignatorsDef>
+		<defName>FernyPonpecoSciFiProps_HiddenDesignators</defName>
+		<hiddenDesignators>
+			<li>PFS_DecoTablewareA</li>
+			<li>PFS_DecoTablewareD</li>
+			<li>PFS_DecoTablewareC</li>
+			<li>PFS_DecoTablewareB</li>
+			<li>PFS_TabletopPlant</li>
+			<li>PFS_MetalTeddyBear</li>
+			<li>PFS_ObsidianFigurine</li>
+			<li>PFS_HoloGlassPanel</li>
+			<li>PFS_MiniHoloGlass</li>
+			<li>PFS_HoloGlassDesktop</li>
+			<li>PFS_Table3x2a</li>
+		</hiddenDesignators>
+	</VEF.Buildings.HiddenDesignatorsDef>
+</Defs>
