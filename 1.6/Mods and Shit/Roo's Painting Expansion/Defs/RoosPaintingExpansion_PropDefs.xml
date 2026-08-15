@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<VFEProps.PropDef>
+  <defName>ferny_roos_painting_prop_paintingprops</defName>
+  <category>VFE_PropCategory_Workshop</category>
+  <priority>99999</priority>
+  <prop>RBPPaintingProps</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_roos_painting_prop_paintspills</defName>
+  <category>VFE_PropCategory_Workshop</category>
+  <priority>99999</priority>
+  <prop>RBPPaintSpills</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_roos_painting_prop_paintmat</defName>
+  <category>VFE_PropCategory_Workshop</category>
+  <priority>99999</priority>
+  <prop>RBPPaintMat</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_roos_painting_prop_painttins</defName>
+  <category>VFE_PropCategory_Workshop</category>
+  <priority>99999</priority>
+  <prop>RBPPaintTins</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+<VFEProps.PropDef>
+  <defName>ferny_roos_painting_prop_canvases</defName>
+  <category>VFE_PropCategory_Workshop</category>
+  <priority>99999</priority>
+  <prop>RBPCanvases</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
+</Defs>

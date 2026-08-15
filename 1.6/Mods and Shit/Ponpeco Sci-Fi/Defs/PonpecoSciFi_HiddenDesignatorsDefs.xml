@@ -14,6 +14,7 @@
 			<li>PFS_MiniHoloGlass</li>
 			<li>PFS_HoloGlassDesktop</li>
 			<li>PFS_Table3x2a</li>
+			<li>PFS_DecoTablewareE</li>
 		</hiddenDesignators>
 	</VEF.Buildings.HiddenDesignatorsDef>
 </Defs>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<VEF.Buildings.HiddenDesignatorsDef>
+		<defName>FernyRoosPaintingExpansionProps_HiddenDesignators</defName>
+		<hiddenDesignators>
+			<li>RBPPaintingProps</li>
+			<li>RBPPaintSpills</li>
+			<li>RBPPaintMat</li>
+			<li>RBPPaintTins</li>
+			<li>RBPCanvases</li>
+		</hiddenDesignators>
+	</VEF.Buildings.HiddenDesignatorsDef>
+</Defs>
