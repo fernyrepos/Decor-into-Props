@@ -15,6 +15,7 @@
 			<li>PFS_HoloGlassDesktop</li>
 			<li>PFS_Table3x2a</li>
 			<li>PFS_DecoTablewareE</li>
+			<li>PFS_ColumnC</li>
 		</hiddenDesignators>
 	</VEF.Buildings.HiddenDesignatorsDef>
 </Defs>

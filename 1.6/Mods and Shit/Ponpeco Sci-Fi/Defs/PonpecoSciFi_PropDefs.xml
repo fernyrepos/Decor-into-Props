@@ -98,4 +98,12 @@
   <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
 </VFEProps.PropDef>
 
+<VFEProps.PropDef>
+  <defName>ferny_ponpeco_scifi_prop_columnc</defName>
+  <category>VFE_PropCategory_Spacer</category>
+  <priority>99999</priority>
+  <prop>PFS_ColumnC</prop>
+  <useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+</VFEProps.PropDef>
+
 </Defs>
