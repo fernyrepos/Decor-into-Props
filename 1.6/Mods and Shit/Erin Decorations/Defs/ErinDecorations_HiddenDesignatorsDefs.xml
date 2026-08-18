@@ -3,25 +3,6 @@
 	<VEF.Buildings.HiddenDesignatorsDef>
 		<defName>FernyErinDecorations_HiddenDesignators</defName>
 		<hiddenDesignators>			
-			<li>VD_Sandglass</li>
-			<li>VD_Phonograph</li>
-			<li>VD_PendulumClock</li>
-			<li>VD_HangingOilPainting</li>
-			<li>VD_OilPainting</li>
-			<li>VD_BookPile</li>
-			<li>VD_CigarBox</li>
-			<li>VD_CigarTray</li>
-			<li>VD_DialTelephone</li>
-			<li>VD_DocumentBox</li>
-			<li>VD_FoodTrolley</li>
-			<li>VD_GlassCup</li>
-			<li>VD_IronWinePot</li>
-			<li>VD_JohnnieWalker</li>
-			<li>VD_Map</li>
-			<li>VD_SuitCase</li>
-			<li>VD_TeacupPlate</li>
-			<li>VD_TobaccoPipe</li>
-			<li>VD_TypeWriter</li>
 			<li>ED_Doormat</li>
 			<li>ED_Clock</li>
 			<li>ED_Laptop</li>
@@ -33,9 +14,9 @@
 			<li>ED_Trophy</li>
 			<li>ED_SmallPhotos</li>
 			<li>ED_SmallPlant</li>
-        <li>ED_DogHouse</li>
+        	<li>ED_DogHouse</li>
 			<li>ED_Bin</li>
-					<li>ED_Plushie</li>
+			<li>ED_Plushie</li>
 		</hiddenDesignators>							
 	</VEF.Buildings.HiddenDesignatorsDef>
 </Defs>
